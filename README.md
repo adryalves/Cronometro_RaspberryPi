@@ -1,5 +1,9 @@
 # Simulador de Cronômetro
 
+## Link da descrição do funcionamento:
+
+https://drive.google.com/file/d/10sErOBkuHRQkOE5gClcBqaq0jhKugqO0/view?usp=sharing
+
 ## Objetivos
 
 - Simular um cronômetro que varia de 1 a 4 minutos.
